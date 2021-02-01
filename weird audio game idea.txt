@@ -1,0 +1,3 @@
+lav story spil hvor at en person taler, hvis man vælger at mufle ham, så kommentere han på det og skifter lyd sted.
+han ville så nævne en væg af objekter og man skal prøve at finde 4 dyr, og hver dyr laver en lyd, og hvis den kan hører at man mufler lyden
+så bliver eksempelvis ens hånd spist af en løve, eller nappet af en skildpade
